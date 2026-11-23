@@ -42,6 +42,8 @@
    - `DATABASE_URL`: من **Project Settings → Database → Connection string → Transaction pooler** (المنفذ 6543)، بعد وضع كلمة المرور مكان `[YOUR-PASSWORD]`.
    - `SUPABASE_URL` و`SUPABASE_SERVICE_ROLE_KEY`: من **Project Settings → API**. مفتاح `service_role` سري، فلا تضعه في أي مكان عام.
 
+> **مشروع Supabase الحالي:** `mutafawiqeen` (المعرّف `kywtcmddujajevjlizoa`، منطقة فرانكفورت). قاعدة بياناته جاهزة ومحمّلة بالمحتوى، فلا تشغّل `setup-supabase.sql` عليه مرة أخرى.
+
 ### 2) الموقع: Vercel
 1. في [vercel.com](https://vercel.com) اختر **Add New → Project** واستورد مستودع GitHub الخاص بالمنصة.
 2. في **Environment Variables** أضف:
