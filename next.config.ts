@@ -1,9 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  cacheComponents: true,
-  partialPrefetching: true,
+  // Book PDFs are rendered in the browser with pdf.js; keep its worker as a static asset.
+  serverExternalPackages: ["postgres"],
   turbopack: {
     rules: {
       "*.css": {

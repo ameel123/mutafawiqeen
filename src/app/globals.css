@@ -1,26 +1,156 @@
 @import "tailwindcss";
+@import "@fontsource/tajawal/400.css";
+@import "@fontsource/tajawal/500.css";
+@import "@fontsource/tajawal/700.css";
+@import "@fontsource/tajawal/800.css";
+@import "@fontsource/noto-naskh-arabic/arabic-400.css";
+@import "@fontsource/noto-naskh-arabic/arabic-600.css";
+@import "@fontsource/noto-naskh-arabic/arabic-700.css";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  --font-sans: "Tajawal", system-ui, sans-serif;
+  --font-book: "Noto Naskh Arabic", "Tajawal", serif;
+
+  --color-ink: #1d1b3a;
+  --color-ink-soft: #55537a;
+  --color-paper: #fffaf1;
+  --color-line: #ece4d3;
+
+  --color-brand-50: #f1efff;
+  --color-brand-100: #e2ddff;
+  --color-brand-200: #c7bdff;
+  --color-brand-500: #5b46e0;
+  --color-brand-600: #4a35cc;
+  --color-brand-700: #3a28a6;
+  --color-brand-900: #231763;
+
+  --color-sun-100: #fff3c4;
+  --color-sun-300: #ffd54d;
+  --color-sun-500: #f5b100;
+
+  --color-mint-100: #d8f7e8;
+  --color-mint-500: #17a56b;
+  --color-mint-700: #0c7449;
+
+  --color-coral-100: #ffe1dc;
+  --color-coral-500: #e5533d;
+  --color-coral-700: #b23624;
+
+  --radius-xl2: 1.25rem;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  background: var(--color-paper);
+  color: var(--color-ink);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Soft dotted backdrop for student/parent screens */
+.bg-dots {
+  background-image: radial-gradient(rgba(91, 70, 224, 0.09) 1.2px, transparent 1.2px);
+  background-size: 22px 22px;
+}
+
+@layer components {
+  .card {
+    @apply rounded-[var(--radius-xl2)] border border-line bg-white shadow-[0_1px_0_rgba(29,27,58,0.04),0_8px_24px_-12px_rgba(29,27,58,0.12)];
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-[15px] font-bold transition select-none
+      disabled:cursor-not-allowed disabled:opacity-50 focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-brand-200;
+  }
+  .btn-primary {
+    @apply bg-brand-500 text-white shadow-[0_3px_0_var(--color-brand-700)] hover:bg-brand-600 active:translate-y-[2px] active:shadow-[0_1px_0_var(--color-brand-700)];
+  }
+  .btn-sun {
+    @apply bg-sun-300 text-ink shadow-[0_3px_0_var(--color-sun-500)] hover:brightness-105 active:translate-y-[2px] active:shadow-none;
+  }
+  .btn-mint {
+    @apply bg-mint-500 text-white shadow-[0_3px_0_var(--color-mint-700)] hover:brightness-105 active:translate-y-[2px] active:shadow-none;
+  }
+  .btn-ghost {
+    @apply bg-transparent text-ink-soft hover:bg-brand-50 hover:text-brand-700;
+  }
+  .btn-outline {
+    @apply border border-line bg-white text-ink hover:border-brand-200 hover:bg-brand-50;
+  }
+  .btn-danger {
+    @apply border border-coral-100 bg-white text-coral-700 hover:bg-coral-100;
+  }
+  .btn-sm {
+    @apply rounded-lg px-3 py-1.5 text-sm;
+  }
+
+  .input {
+    @apply w-full rounded-xl border border-line bg-white px-3.5 py-2.5 text-[15px] text-ink outline-none transition
+      placeholder:text-ink-soft/60 focus:border-brand-500 focus:ring-4 focus:ring-brand-100;
+  }
+  .label {
+    @apply mb-1.5 block text-sm font-bold text-ink;
+  }
+
+  .badge {
+    @apply inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-bold;
+  }
+
+  /* Lesson reading text: Naskh with full diacritics, generous line height */
+  .book-text {
+    font-family: var(--font-book);
+    line-height: 2.1;
+    font-size: 1.35rem;
+    white-space: pre-wrap;
+  }
+  .speaking {
+    @apply rounded-lg bg-sun-100 ring-4 ring-sun-100;
+  }
+}
+
+/* Larger tap targets on phones */
+@media (max-width: 640px) {
+  .book-text {
+    font-size: 1.25rem;
+  }
+}
+
+@keyframes pop {
+  0% {
+    transform: scale(0.6);
+    opacity: 0;
+  }
+  70% {
+    transform: scale(1.12);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.animate-pop {
+  animation: pop 0.45s ease-out both;
+}
+
+@keyframes rise {
+  from {
+    transform: translateY(8px);
+    opacity: 0;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+.animate-rise {
+  animation: rise 0.35s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-pop,
+  .animate-rise {
+    animation: none;
+  }
 }

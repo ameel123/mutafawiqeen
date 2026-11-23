@@ -1,36 +1,107 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# منصة المتفوقين
 
-## Getting Started
+منصة تعليمية للمناهج العراقية الرسمية من الصف الأول إلى الصف السادس الابتدائي. تضم ثلاثة أنواع من الحسابات: الطالب وولي الأمر والمشرف.
 
-First, run the development server:
+**الطالب** يجد:
+- دروس الكتاب المدرسي نفسه، مرتبة في وحدات وفصول ودروس، ومعها صور صفحات الكتاب.
+- صوت معلم يقرأ الشرح بلا أرقام الصفحات، مع خيار القراءة البطيئة.
+- أنشطة تُصحَّح فوراً.
+- اختبارات للدرس والفصل والوحدة والمادة، مع تقييم بالنجوم ومراجعة للإجابات.
+
+**ولي الأمر** يربط حساب طفله برمز، أو ينشئ له حساباً، ثم يتابع تقدمه ودرجاته والدروس التي تحتاج مراجعة.
+
+**المشرف** يعمل من لوحة الإدارة:
+1. يرفع ملف PDF الأصلي للكتاب، فتتولد صور الصفحات داخل المتصفح.
+2. يبني هيكل الكتاب.
+3. يُدخل محتوى كل درس، إما يدوياً، أو من صور الصفحات، أو من نص الملف، أو بالذكاء الاصطناعي (اختياري).
+4. يضيف الأنشطة والأسئلة.
+5. يراجع الدرس ثم ينشره.
+
+لا يظهر الدرس للطلاب إلا بعد مراجعته ونشره. ولا يُنشر درس ليس فيه سؤال اختبار واحد على الأقل.
+
+## المحتوى الجاهز
+
+| الكتاب | الحالة |
+|---|---|
+| **قراءتي** (الصف الأول) | 67 درساً منشوراً، و290 نشاطاً وسؤالاً، وصور الصفحات الـ112 داخل المشروع |
+| **الرياضيات** (الصف الأول) | فصوله التسعة و65 درساً بعناوينها وصفحاتها كمسودات. منشور منها درس «العددان ١ ، ٢» مع الفيديو وأنشطته واختباره |
+
+تكملة دروس الرياضيات تتم من لوحة الإدارة بعد رفع ملف PDF للكتاب.
+
+---
+
+## التشغيل على الإنترنت (Supabase + Vercel)
+
+### 1) قاعدة البيانات والتخزين: Supabase
+1. أنشئ مشروعاً جديداً في [supabase.com](https://supabase.com) واحفظ كلمة مرور قاعدة البيانات.
+2. افتح **SQL Editor**، والصق محتوى الملف `db/setup-supabase.sql` كاملاً، ثم اضغط **Run** مرة واحدة. هذا الملف:
+   - ينشئ الجداول.
+   - ينشئ حاويتي التخزين `books` (خاصة) و`media` (عامة).
+   - يحمّل الصفوف والمواد وكتابي قراءتي والرياضيات.
+3. اجمع القيم التالية:
+   - `DATABASE_URL`: من **Project Settings → Database → Connection string → Transaction pooler** (المنفذ 6543)، بعد وضع كلمة المرور مكان `[YOUR-PASSWORD]`.
+   - `SUPABASE_URL` و`SUPABASE_SERVICE_ROLE_KEY`: من **Project Settings → API**. مفتاح `service_role` سري، فلا تضعه في أي مكان عام.
+
+### 2) الموقع: Vercel
+1. في [vercel.com](https://vercel.com) اختر **Add New → Project** واستورد مستودع GitHub الخاص بالمنصة.
+2. في **Environment Variables** أضف:
+
+| المتغير | القيمة |
+|---|---|
+| `DATABASE_URL` | رابط Transaction pooler من Supabase |
+| `SUPABASE_URL` | `https://xxxx.supabase.co` |
+| `SUPABASE_SERVICE_ROLE_KEY` | مفتاح service_role |
+| `ADMIN_EMAIL` | البريد أو اسم المستخدم الذي سيصبح مشرفاً |
+| `SESSION_SECRET` | نص عشوائي طويل |
+| `ANTHROPIC_API_KEY` | (اختياري) لزر «استخراج بالذكاء الاصطناعي» |
+
+3. اضغط **Deploy**.
+4. افتح الموقع فوراً، وأنشئ حساباً باسم المستخدم نفسه المكتوب في `ADMIN_EMAIL`. هذا الحساب يصبح المشرف. أنشئه قبل غيرك.
+
+### 3) بعد التشغيل
+- **لوحة الإدارة**: المواد والكتب ← الرياضيات ← كتاب الرياضيات ← **رفع ملف PDF**.
+- ضبط **فرق ترقيم الصفحات**: الدروس تستعمل الأرقام المطبوعة في الكتاب. إذا كانت الصفحة المطبوعة 1 هي الصفحة 3 في الملف، فالفرق = 2.
+- **حدود الخطة المجانية في Supabase**: حجم الملف الواحد حتى 50 ميغابايت. كتاب أو فيديو أكبر من ذلك يحتاج ضغطاً، أو ترقية الخطة.
+
+---
+
+## التطوير محلياً
 
 ```bash
+npm install
+cp .env.example .env.local          # ثم ضع DATABASE_URL لقاعدة PostgreSQL محلية
+npm run db:setup                    # ينشئ الجداول ويحمّل المحتوى (آمن عند التكرار)
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+بدون إعدادات Supabase تُحفظ الملفات المرفوعة على القرص داخل `.data/storage`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### الاختبارات
+```bash
+createdb platform_test              # مرة واحدة
+npm run build
+npm run test:e2e
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+الاختبارات الآلية (Playwright) تغطي:
+- الحسابات والصلاحيات.
+- رحلة الطالب كاملة: الدرس، الأنشطة، الاختبار، النتائج.
+- عدم كشف الإجابات ومنع التلاعب بالتصحيح.
+- ربط ولي الأمر.
+- مسار المشرف كاملاً: من رفع PDF إلى درس منشور.
+- إدارة المستخدمين.
+- عرض الهاتف.
+- منطق التصحيح وحذف أرقام الصفحات من الصوت.
 
-## Learn More
+### تعديل محتوى قراءتي أو الرياضيات الأولي
+المحتوى في `content/*.json`. بعد التعديل شغّل `npm run seed:build` لإعادة توليد ملفات `db/seed` و`db/setup-supabase.sql`.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## البنية التقنية
+- **إطار العمل**: Next.js 16 (App Router)، React 19، Tailwind CSS 4.
+- **قاعدة البيانات**: PostgreSQL عبر `postgres.js`.
+  - الوصول من الخادم فقط.
+  - RLS مفعّلة على كل الجداول، فلا يمكن قراءتها بمفتاح Supabase العام.
+- **الحسابات**: كلمات المرور مشفّرة (bcrypt)، والجلسات في قاعدة البيانات بملف تعريف `httpOnly`.
+- **التصحيح**: كله في الخادم، والأسئلة تُرسل للطالب بلا إجابات.
+- **الملفات**: تُرفع مباشرة من المتصفح إلى Supabase Storage برابط موقّع، فلا تمر على Vercel ولا تخضع لحدود حجمه.
+- **صوت المعلم**: محرك الكلام في المتصفح (Web Speech API)، باختيار أفضل صوت عربي متاح على الجهاز.

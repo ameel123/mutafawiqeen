@@ -1,0 +1,3963 @@
+[
+ {
+  "unit": 1,
+  "lesson": 1,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "نبدأ القراءة والكتابة من جهة:",
+  "options": [
+   "اليسار",
+   "اليمين"
+  ],
+  "answer": 1,
+  "explanation": "في الإعداد الانتقالي: البدء من اليمين إلى اليسار."
+ },
+ {
+  "unit": 1,
+  "lesson": 1,
+  "kind": "quiz",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "كم آية في سورة الفاتحة؟ (اكتب الرقم)",
+  "options": [],
+  "answer": [
+   "7",
+   "٧",
+   "سبع",
+   "سبعة"
+  ],
+  "explanation": "سورة الفاتحة سبع آيات."
+ },
+ {
+  "unit": 1,
+  "lesson": 1,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "أكمل: بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ......",
+  "options": [
+   "ٱلدِّينِ",
+   "ٱلرَّحِيمِ",
+   "ٱلۡعَٰلَمِينَ"
+  ],
+  "answer": 1,
+  "explanation": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ"
+ },
+ {
+  "unit": 1,
+  "lesson": 1,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "نقول بعد قراءة السورة: صدق الله العظيم",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 1,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أيّ مقطع تكرّر في كلمة «دادا»؟",
+  "options": [
+   "ما",
+   "با",
+   "دا"
+  ],
+  "answer": 2,
+  "explanation": "دادا = دا + دا"
+ },
+ {
+  "unit": 2,
+  "lesson": 1,
+  "kind": "activity",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "كم مرة تكرّر المقطع «دا» في كلمة «دادا»؟",
+  "options": [
+   "مرتين",
+   "ثلاث مرات",
+   "مرة واحدة"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 1,
+  "kind": "quiz",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "اكتب الكلمة: دا + دا = ......",
+  "options": [],
+  "answer": [
+   "دادا"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 1,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "كلمة «دادا» تتكوّن من المقطع «دا» مرتين",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 1,
+  "kind": "quiz",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "أيّ كلمة قرأناها في هذا الدرس؟",
+  "options": [
+   "دادا",
+   "بابا",
+   "ماما"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 2,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «دار»؟",
+  "options": [
+   "د",
+   "ا",
+   "ر"
+  ],
+  "answer": 2,
+  "explanation": "الحرف الجديد هو الراء «ر»."
+ },
+ {
+  "unit": 2,
+  "lesson": 2,
+  "kind": "activity",
+  "order": 2,
+  "type": "ordering",
+  "prompt": "رتّب الكلمتين كما في الدرس: (دادا - دار)",
+  "options": [
+   "دار",
+   "دادا"
+  ],
+  "answer": null,
+  "explanation": "دار دادا"
+ },
+ {
+  "unit": 2,
+  "lesson": 2,
+  "kind": "quiz",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "اكتب الكلمة: دا + ر = ......",
+  "options": [],
+  "answer": [
+   "دار"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 2,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "أيّ كلمة تنتهي بحرف الراء؟",
+  "options": [
+   "دادا",
+   "دار"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 2,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "كلمة «دار» تبدأ بحرف الدال",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 3,
+  "kind": "activity",
+  "order": 1,
+  "type": "matching",
+  "prompt": "صِل الحروف بالكلمة التي تتكوّن منها:",
+  "options": [
+   {
+    "left": "د و د",
+    "right": "دود"
+   },
+   {
+    "left": "د ا ر",
+    "right": "دار"
+   },
+   {
+    "left": "د و ر",
+    "right": "دور"
+   }
+  ],
+  "answer": null,
+  "explanation": "من تدريب ١ في الدرس."
+ },
+ {
+  "unit": 2,
+  "lesson": 3,
+  "kind": "activity",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ما المقطع المكتوب في سطر الكتابة؟",
+  "options": [
+   "را",
+   "دا",
+   "دو"
+  ],
+  "answer": 2,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 3,
+  "kind": "quiz",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "اكتب الكلمة: د + و + د = ......",
+  "options": [],
+  "answer": [
+   "دود"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 3,
+  "kind": "quiz",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "اكتب الكلمة: د + و + ر = ......",
+  "options": [],
+  "answer": [
+   "دور"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 3,
+  "kind": "quiz",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "أيّ كلمة فيها حرف الواو «و»؟",
+  "options": [
+   "دادا",
+   "دار",
+   "دور"
+  ],
+  "answer": 2,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 4,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «باب»؟",
+  "options": [
+   "ر",
+   "د",
+   "ب"
+  ],
+  "answer": 2,
+  "explanation": "الحرف الجديد هو الباء «ب»."
+ },
+ {
+  "unit": 2,
+  "lesson": 4,
+  "kind": "activity",
+  "order": 2,
+  "type": "ordering",
+  "prompt": "رتّب الكلمات كما في الدرس:",
+  "options": [
+   "باب",
+   "دار",
+   "بابا"
+  ],
+  "answer": null,
+  "explanation": "باب دار بابا"
+ },
+ {
+  "unit": 2,
+  "lesson": 4,
+  "kind": "quiz",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "اكتب الكلمة: با + ب = ......",
+  "options": [],
+  "answer": [
+   "باب"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 4,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "أكمل: باب دار ......",
+  "options": [
+   "بابا",
+   "دور",
+   "دود"
+  ],
+  "answer": 0,
+  "explanation": "باب دار بابا"
+ },
+ {
+  "unit": 2,
+  "lesson": 4,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "كلمة «بابا» تبدأ بحرف الباء",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 5,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «بان»؟",
+  "options": [
+   "ا",
+   "ب",
+   "ن"
+  ],
+  "answer": 2,
+  "explanation": "الحرف الجديد هو النون «ن»."
+ },
+ {
+  "unit": 2,
+  "lesson": 5,
+  "kind": "activity",
+  "order": 2,
+  "type": "ordering",
+  "prompt": "رتّب الكلمات كما في الدرس:",
+  "options": [
+   "باب",
+   "دار",
+   "نور"
+  ],
+  "answer": null,
+  "explanation": "باب دار نور"
+ },
+ {
+  "unit": 2,
+  "lesson": 5,
+  "kind": "quiz",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "اكتب الكلمة: نو + ر = ......",
+  "options": [],
+  "answer": [
+   "نور"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 5,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "أيّ كلمة فيها حرف النون؟",
+  "options": [
+   "بان",
+   "باب",
+   "دار"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 5,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "في الدرس: «باب دار بان»",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 6,
+  "kind": "activity",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "تدريب: ما + ما = ......",
+  "options": [],
+  "answer": [
+   "ماما"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 6,
+  "kind": "activity",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "تدريب: با + با = ......",
+  "options": [],
+  "answer": [
+   "بابا"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 6,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "مَن نام في الدرس؟",
+  "options": [
+   "دادا",
+   "بابا"
+  ],
+  "answer": 0,
+  "explanation": "دادا نام ، بابا ما نام"
+ },
+ {
+  "unit": 2,
+  "lesson": 6,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "بابا نام",
+  "options": [],
+  "answer": false,
+  "explanation": "في الدرس: «بابا ما نام»."
+ },
+ {
+  "unit": 2,
+  "lesson": 6,
+  "kind": "quiz",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "أيّ كلمة فيها حرف الميم؟",
+  "options": [
+   "باب",
+   "نام",
+   "دار"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 7,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: أَدعوكَ يا إلهي ، يا رافِعَ ......",
+  "options": [
+   "السَّماءِ",
+   "العَطاءِ",
+   "الذَّكاءِ"
+  ],
+  "answer": 0,
+  "explanation": "أَدعوكَ يا إلهي يا رافِعَ السَّماءِ"
+ },
+ {
+  "unit": 2,
+  "lesson": 7,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: يَسِّرْ عَلَيَّ دَرسي ، بِالجِدِّ و......",
+  "options": [
+   "العَطاءِ",
+   "السَّماءِ",
+   "الذَّكاءِ"
+  ],
+  "answer": 2,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 7,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "في الدعاء نطلب من الله أن يحفظ:",
+  "options": [
+   "أبي وأمي وكلَّ أصدقائي",
+   "الدار والباب"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 7,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "نختم الدعاء بقولنا: رَبِّ استَجِبْ دُعائي",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 8,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «نوري»؟",
+  "options": [
+   "ر",
+   "ي",
+   "ن"
+  ],
+  "answer": 1,
+  "explanation": "الحرف الجديد هو الياء «ي»."
+ },
+ {
+  "unit": 2,
+  "lesson": 8,
+  "kind": "activity",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "أكمل بالحرف «ن» واكتب الكلمة كاملة: با......",
+  "options": [],
+  "answer": [
+   "بان"
+  ],
+  "explanation": "با + ن = بان"
+ },
+ {
+  "unit": 2,
+  "lesson": 8,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أيّ اسم ورد في الدرس؟",
+  "options": [
+   "ريم",
+   "زينب",
+   "مازن"
+  ],
+  "answer": 0,
+  "explanation": "دار ريم ، دار دينا"
+ },
+ {
+  "unit": 2,
+  "lesson": 8,
+  "kind": "quiz",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "اكتب الكلمة: نو + ري = ......",
+  "options": [],
+  "answer": [
+   "نوري"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 8,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "كلمة «ريم» فيها حرف الياء",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 9,
+  "kind": "activity",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "تدريب: رَ + باب = ......",
+  "options": [],
+  "answer": [
+   "رباب"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 9,
+  "kind": "activity",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "تدريب: بَـ + ريد = ......",
+  "options": [],
+  "answer": [
+   "بريد"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 9,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "مَن الذي ما نامَ؟",
+  "options": [
+   "نَمير",
+   "بَدري"
+  ],
+  "answer": 1,
+  "explanation": "نَمير نامَ ، بَدري ما نامَ"
+ },
+ {
+  "unit": 2,
+  "lesson": 9,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ماذا نبني في الدرس؟",
+  "options": [
+   "دارَ بان",
+   "دارَ ريم",
+   "دارَ نور"
+  ],
+  "answer": 0,
+  "explanation": "نَبني دارَ بان"
+ },
+ {
+  "unit": 2,
+  "lesson": 9,
+  "kind": "quiz",
+  "order": 3,
+  "type": "ordering",
+  "prompt": "رتّب الحروف لتكوّن كلمة «دَرب»:",
+  "options": [
+   "د",
+   "ر",
+   "ب"
+  ],
+  "answer": null,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 10,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "مِمَّن تتكوّن الأسرة؟",
+  "options": [
+   "الأب والأم والأولاد",
+   "المعلم والتلاميذ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 10,
+  "kind": "quiz",
+  "order": 1,
+  "type": "true_false",
+  "prompt": "أفراد الأسرة يحب بعضهم بعضاً ويتعاونون",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 10,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "أوصانا الله سبحانه وتعالى بالإحسان إلى الوالدين وطاعتهما",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 10,
+  "kind": "quiz",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "مَن تحكي لنا الحكايات فنفرح ونضحك؟",
+  "options": [
+   "الجدة",
+   "المعلمة"
+  ],
+  "answer": 0,
+  "explanation": "جدتنا تساعد أمنا وتحكي لنا الحكايات."
+ },
+ {
+  "unit": 2,
+  "lesson": 11,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «بوق»؟",
+  "options": [
+   "و",
+   "ق",
+   "ب"
+  ],
+  "answer": 1,
+  "explanation": "الحرف الجديد هو القاف «ق»."
+ },
+ {
+  "unit": 2,
+  "lesson": 11,
+  "kind": "activity",
+  "order": 2,
+  "type": "ordering",
+  "prompt": "رتّب الكلمات كما في الدرس:",
+  "options": [
+   "نَديم",
+   "يَقود",
+   "بَقَر",
+   "بَدران"
+  ],
+  "answer": null,
+  "explanation": "نَديم يَقود بَقَر بَدران"
+ },
+ {
+  "unit": 2,
+  "lesson": 11,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا يقود نَديم؟",
+  "options": [
+   "بَقَر بَدران",
+   "دار نوري"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 11,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "بوق نَديم جديد",
+  "options": [],
+  "answer": false,
+  "explanation": "في الدرس: «بوق نَديم قَديم»."
+ },
+ {
+  "unit": 2,
+  "lesson": 11,
+  "kind": "quiz",
+  "order": 3,
+  "type": "fill_blank",
+  "prompt": "أكمل: بَقَر بَدران ......",
+  "options": [],
+  "answer": [
+   "قريب"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 12,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «وَز»؟",
+  "options": [
+   "ز",
+   "و",
+   "ر"
+  ],
+  "answer": 0,
+  "explanation": "الحرف الجديد هو الزاي «ز»."
+ },
+ {
+  "unit": 2,
+  "lesson": 12,
+  "kind": "activity",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "اختر الكلمة نفسها: زَينَب",
+  "options": [
+   "نَزور",
+   "زَيدون",
+   "زَينَب"
+  ],
+  "answer": 2,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 12,
+  "kind": "quiz",
+  "order": 1,
+  "type": "ordering",
+  "prompt": "رتّب الكلمات كما في الدرس:",
+  "options": [
+   "نَزور",
+   "دارَ",
+   "زَيدون"
+  ],
+  "answer": null,
+  "explanation": "نَزور دارَ زَيدون"
+ },
+ {
+  "unit": 2,
+  "lesson": 12,
+  "kind": "quiz",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "أكمل: زَورَق زَيدون ......",
+  "options": [],
+  "answer": [
+   "قريب"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 12,
+  "kind": "quiz",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "أيّ كلمة فيها حرف الزاي؟",
+  "options": [
+   "زَورَق",
+   "دار",
+   "بوق"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 13,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: يا مَدْرَسَتي ، فيكِ أَقضي كُلَّ ......",
+  "options": [
+   "ٱلوَقْتِ",
+   "ٱللَّعِبِ",
+   "ٱلأَلعابِ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 13,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: هٰذا صَفّي ، هٰذي ......",
+  "options": [
+   "كُتُبي",
+   "إِخْواني",
+   "أَصحابي"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 13,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "أكمل: مَعَ إِخْواني ، مَعَ ......",
+  "options": [
+   "كُتُبي",
+   "أَصحابي"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 13,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "أَقرأُ في كتبي بَعدَ ٱللَّعِبِ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 14,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "اختر الكلمة التي فيها كسرة:",
+  "options": [
+   "دار",
+   "قِرد",
+   "بوق"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 14,
+  "kind": "activity",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "أكمل: مِزمار مازِن ......",
+  "options": [],
+  "answer": [
+   "قديم"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 14,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا يفعل قِرد مازِن؟",
+  "options": [
+   "يَنام",
+   "يَدور"
+  ],
+  "answer": 1,
+  "explanation": "قِرد مازِن يَدور"
+ },
+ {
+  "unit": 2,
+  "lesson": 14,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "مَن صاحب القِرد والمِزمار؟",
+  "options": [
+   "نَديم",
+   "زَيد",
+   "مازِن"
+  ],
+  "answer": 2,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 14,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "مِزمار مازِن جديد",
+  "options": [],
+  "answer": false,
+  "explanation": "في الدرس: «مِزمار مازِن قَدِيم»."
+ },
+ {
+  "unit": 2,
+  "lesson": 15,
+  "kind": "activity",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "تدريب: قَد دوري = ......",
+  "options": [],
+  "answer": [
+   "قدوري"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 15,
+  "kind": "activity",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "تدريب: وَززان = ......",
+  "options": [],
+  "answer": [
+   "وزان"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 15,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا وَزَنَ قَدّوري؟",
+  "options": [
+   "زَبيبَ مازِن",
+   "بَقَر بَدران"
+  ],
+  "answer": 0,
+  "explanation": "قَدّوري وَزّان ، وَزَنَ زَبيبَ مازِن"
+ },
+ {
+  "unit": 2,
+  "lesson": 15,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "مَن مَرَّ مِن دَربِنا؟",
+  "options": [
+   "نادِر",
+   "مازِن"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 15,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "مازِن دَقَّ بابَنا",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 15,
+  "kind": "quiz",
+  "order": 4,
+  "type": "ordering",
+  "prompt": "رتّب الحروف لتكوّن كلمة «قِرد»:",
+  "options": [
+   "ق",
+   "ر",
+   "د"
+  ],
+  "answer": null,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 16,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "اختر الكلمة التي فيها ضمّة:",
+  "options": [
+   "قِرد",
+   "دار",
+   "دُبّ"
+  ],
+  "answer": 2,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 16,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "دُبُّ مُنير مِن:",
+  "options": [
+   "زَبيبٍ",
+   "وَرَقٍ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 16,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "دُبُّ مَريَمَ مِن وَرَقٍ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 16,
+  "kind": "quiz",
+  "order": 3,
+  "type": "fill_blank",
+  "prompt": "أكمل: قُم يا مُنيرُ نَزورُ ......",
+  "options": [],
+  "answer": [
+   "زيدان"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 17,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «لَبَن»؟",
+  "options": [
+   "ن",
+   "ب",
+   "ل"
+  ],
+  "answer": 2,
+  "explanation": "الحرف الجديد هو اللام «ل»."
+ },
+ {
+  "unit": 2,
+  "lesson": 17,
+  "kind": "activity",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "أيّ كلمة فيها حرف اللام؟",
+  "options": [
+   "قَلَم",
+   "رُمّان",
+   "بوق"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 17,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا لدى نَبيل؟",
+  "options": [
+   "لَبَن ورُمّان",
+   "زَبيب ومِزمار"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 17,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "الرُّمّان واللَّبَن كثير",
+  "options": [],
+  "answer": false,
+  "explanation": "في الدرس: «رُمّان وَ لَبَن قَليل»."
+ },
+ {
+  "unit": 2,
+  "lesson": 17,
+  "kind": "quiz",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "نَبيل يعمل:",
+  "options": [
+   "بَقّالاً",
+   "وَزّاناً"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 18,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «ريف»؟",
+  "options": [
+   "ف",
+   "ر",
+   "ي"
+  ],
+  "answer": 0,
+  "explanation": "الحرف الجديد هو الفاء «ف»."
+ },
+ {
+  "unit": 2,
+  "lesson": 18,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا في ريف مَناف؟",
+  "options": [
+   "بَقَر ووَزّ",
+   "قِرد ودُبّ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 18,
+  "kind": "quiz",
+  "order": 2,
+  "type": "ordering",
+  "prompt": "رتّب الكلمات كما في الدرس:",
+  "options": [
+   "نَزورُ",
+   "ريفَ",
+   "مَناف"
+  ],
+  "answer": null,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 18,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "فاروق يَقولُ: يا مُفيدُ نَزورُ ريفَ مَناف",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 19,
+  "kind": "activity",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "تدريب: أَمين ...... (ماء / بَنّاء)",
+  "options": [],
+  "answer": [
+   "بناء"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 19,
+  "kind": "activity",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "تدريب: نَبيل ...... (بَقّال / رُمّان)",
+  "options": [],
+  "answer": [
+   "بقال"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 19,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "مَن أبو مَأمون؟",
+  "options": [
+   "أَمين",
+   "نَبيل",
+   "نادِر"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 19,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ماذا يعمل أَمين؟",
+  "options": [
+   "بَزّاز",
+   "بَقّال",
+   "بَنّاء"
+  ],
+  "answer": 2,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 19,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "مَأمون يَقولُ: نَبني دارَنا",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 20,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: أَهْلاً أَهْلاً يا ......",
+  "options": [
+   "أَصْحابي",
+   "بِلادي"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 20,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: نَحْنُ جَميعاً جُنْدُ ......",
+  "options": [
+   "ٱلزَّمَنِ",
+   "ٱلوَطَنِ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 20,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "كُلُّ صَدِيقٍ لي أَرْعاهُ ، أَبَداً لا أَنساهُ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 21,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أيّ مما يأتي مهنة؟",
+  "options": [
+   "الحديقة",
+   "الكتاب",
+   "المعلم"
+  ],
+  "answer": 2,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 21,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "كل صاحب عمل يؤدي عمله بـ:",
+  "options": [
+   "أمانة وإخلاص",
+   "كسل"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 21,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "أصحاب الأعمال كلهم يخدمون الوطن وأبناء الوطن",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 22,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "اختر الكلمة التي تبدأ بـ «إِ»:",
+  "options": [
+   "إِناء",
+   "أُم",
+   "أَب"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 22,
+  "kind": "activity",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "اختر الكلمة التي تبدأ بـ «أُ»:",
+  "options": [
+   "إِناء",
+   "أُم",
+   "أَب"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 22,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا في إِناءِ إِيمانَ؟",
+  "options": [
+   "ماء",
+   "لَبَن"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 22,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "قالَ أَيمَن: أَنا وَإِقبال بَدَأنا نَقرَأُ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 22,
+  "kind": "quiz",
+  "order": 3,
+  "type": "ordering",
+  "prompt": "رتّب الحروف لتكوّن كلمة «مَرَق»:",
+  "options": [
+   "م",
+   "ر",
+   "ق"
+  ],
+  "answer": null,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 23,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «بَطّ»؟",
+  "options": [
+   "ط",
+   "ب",
+   "د"
+  ],
+  "answer": 0,
+  "explanation": "الحرف الجديد هو الطاء «ط»."
+ },
+ {
+  "unit": 2,
+  "lesson": 23,
+  "kind": "activity",
+  "order": 2,
+  "type": "matching",
+  "prompt": "صِل كل دار بما فيها:",
+  "options": [
+   {
+    "left": "دار طارِق",
+    "right": "بَطّ"
+   },
+   {
+    "left": "دار لُطفي",
+    "right": "وَزّ"
+   },
+   {
+    "left": "دار طالِب",
+    "right": "بُلبُل"
+   }
+  ],
+  "answer": null,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 23,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا في دار لُطفي؟",
+  "options": [
+   "وَزّ",
+   "بُلبُل",
+   "بَطّ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 23,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ماذا في دار طالِب؟",
+  "options": [
+   "وَزّ",
+   "بُلبُل",
+   "بَطّ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 23,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "بُلبُل طالِب طار",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 24,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: يا بَطّ يا بَطّ ، اِسبَح ......",
+  "options": [
+   "بِٱلشَّط",
+   "بِٱلدّار"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 24,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا نقول لِلسَّمَكَةْ؟",
+  "options": [
+   "أَتَتِ ٱلشَّبَكَةْ",
+   "نامَ ٱلبَطّ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 24,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "نطلب من السمكة أن تميل عن الشبكة لتنجو منها",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 25,
+  "kind": "activity",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "تدريب: وِ + داد = ......",
+  "options": [],
+  "answer": [
+   "وداد"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 25,
+  "kind": "activity",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "تدريب: زَو + رَق = ......",
+  "options": [],
+  "answer": [
+   "زورق"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 25,
+  "kind": "quiz",
+  "order": 1,
+  "type": "matching",
+  "prompt": "صِل كل كلمة بصفتها كما في الدرس:",
+  "options": [
+   {
+    "left": "وَردٌ",
+    "right": "لَطيفٌ"
+   },
+   {
+    "left": "قِطارٌ",
+    "right": "طَويلٌ"
+   },
+   {
+    "left": "زَورَقٌ",
+    "right": "واقِفٌ"
+   }
+  ],
+  "answer": null,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 25,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "قِطارُ مَن طَويلٌ؟",
+  "options": [
+   "وِداد",
+   "فَوزي",
+   "أَيمَن"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 25,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "وَردُ وِداد لَطيفٌ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 26,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "اختر الكلمة المنوّنة بالفتح:",
+  "options": [
+   "وَرداً",
+   "وَردٍ",
+   "وَردٌ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 26,
+  "kind": "activity",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "اختر الكلمة المنوّنة بالكسر:",
+  "options": [
+   "طَبَقاً",
+   "طَبَقٍ",
+   "طَبَقٌ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 26,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا رأى مازِن؟",
+  "options": [
+   "وَرداً وقِطاراً وزَورَقاً",
+   "بَطّاً ووَزّاً"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 26,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "الزَّورَق مصنوع مِن:",
+  "options": [
+   "وَرَقٍ",
+   "وَردٍ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 26,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "الأَرنَب في القِطار",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 27,
+  "kind": "activity",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "أدخل «ال» على كلمة «وَلَد» واكتبها:",
+  "options": [],
+  "answer": [
+   "الولد"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 27,
+  "kind": "activity",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "أدخل «ال» على كلمة «قَلَم» واكتبها:",
+  "options": [],
+  "answer": [
+   "القلم"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 27,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماءُ ٱلمَطَرِ:",
+  "options": [
+   "قَليلٌ",
+   "مُفيدٌ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 27,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "البَردُ كثير",
+  "options": [],
+  "answer": false,
+  "explanation": "في الدرس: «اَلبَردُ قَليلٌ»."
+ },
+ {
+  "unit": 2,
+  "lesson": 27,
+  "kind": "quiz",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "مَن يُريدُ ٱلمَطَرَ في الدرس؟",
+  "options": [
+   "الوَلَد والوَرد",
+   "البَطّ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 28,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «بَناتٌ»؟",
+  "options": [
+   "ت",
+   "ب",
+   "ن"
+  ],
+  "answer": 0,
+  "explanation": "الحرف الجديد هو التاء «ت»."
+ },
+ {
+  "unit": 2,
+  "lesson": 28,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "مَن نامَت؟",
+  "options": [
+   "ريم",
+   "نَوال",
+   "نور"
+  ],
+  "answer": 2,
+  "explanation": "قالَت نَوالُ: نورُ نامَت"
+ },
+ {
+  "unit": 2,
+  "lesson": 28,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "ريم نامَت",
+  "options": [],
+  "answer": false,
+  "explanation": "في الدرس: «يا ريمُ أَنتِ ما نِمتِ»."
+ },
+ {
+  "unit": 2,
+  "lesson": 28,
+  "kind": "quiz",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "ماذا في بيتهم؟",
+  "options": [
+   "تَمرٌ وزَيتونٌ",
+   "لَبَنٌ ورُمّانٌ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 29,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا نأخذ من النخلة؟",
+  "options": [
+   "الرمان",
+   "التمر"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 29,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا نصنع من التمر؟",
+  "options": [
+   "الدبس",
+   "اللبن"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 29,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "مِن خوص السَّعف نصنع:",
+  "options": [
+   "الأقلام",
+   "السلال والحصران"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 29,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "النخل كثير في بلادنا ، والنخلة أم الأشجار",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 30,
+  "kind": "activity",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "تدريب: أَو + لاد = ......",
+  "options": [],
+  "answer": [
+   "أولاد"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 30,
+  "kind": "activity",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "تدريب: طَ + لال = ......",
+  "options": [],
+  "answer": [
+   "طلال"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 30,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "مَن نادى: يا أَولادي؟",
+  "options": [
+   "المعلم",
+   "الأَب"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 30,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "الأَقلامُ لِمَن؟",
+  "options": [
+   "لِمَن يَنام",
+   "لِمَن يَقرَأُ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 30,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "قَرَأَ ٱلأَولادُ: نَبني ٱلوَطَنَ ، نَبني ٱلبِلادَ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 31,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «فِراسٌ»؟",
+  "options": [
+   "ر",
+   "س",
+   "ف"
+  ],
+  "answer": 1,
+  "explanation": "الحرف الجديد هو السين «س»."
+ },
+ {
+  "unit": 2,
+  "lesson": 31,
+  "kind": "activity",
+  "order": 2,
+  "type": "matching",
+  "prompt": "صِل الاسم بما يفعله:",
+  "options": [
+   {
+    "left": "فِراسٌ",
+    "right": "يَرسُمُ"
+   },
+   {
+    "left": "أَنيسٌ",
+    "right": "يَقرَأُ"
+   }
+  ],
+  "answer": null,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 31,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "عن مَن سَأَلَت مَيسونُ؟",
+  "options": [
+   "فِراس",
+   "سَلام",
+   "أَنيس"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 31,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "أَينَ سَلامٌ؟",
+  "options": [
+   "في ٱلدّارِ",
+   "في ٱلبُستانِ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 31,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "أَنيسٌ يَرسُمُ",
+  "options": [],
+  "answer": false,
+  "explanation": "في الدرس: «فِراسٌ يَرسُمُ ، أَنيسٌ يَقرَأُ»."
+ },
+ {
+  "unit": 2,
+  "lesson": 32,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «مُزارِعٌ»؟",
+  "options": [
+   "م",
+   "ز",
+   "ع"
+  ],
+  "answer": 2,
+  "explanation": "الحرف الجديد هو العين «ع»."
+ },
+ {
+  "unit": 2,
+  "lesson": 32,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "بُستانُ سالِمٍ:",
+  "options": [
+   "واسِعٌ",
+   "صَغيرٌ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 32,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ماذا يَزرَعُ أبو بَديع؟",
+  "options": [
+   "الوَردَ والفُلفُلَ",
+   "التَّمرَ والزَّيتونَ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 32,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "بَديعٌ يَبيعُ الوَردَ والفُلفُلَ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 33,
+  "kind": "activity",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "أكمل: عَلَمُ بِلادي ......",
+  "options": [],
+  "answer": [
+   "مرفوع"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 33,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "مَن رَفَعا العَلَم؟",
+  "options": [
+   "عَليّ وفِراس",
+   "سُعاد وعادِل"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 33,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "أكمل: رَفرِف يا عَلَمَ ......",
+  "options": [
+   "ٱلبُستانِ",
+   "ٱلعِراقِ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 33,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "عَليٌّ يَقولُ: عَلَمُ بِلادي مَرفوعٌ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 34,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: أَلِفٌ باءٌ ، تاءٌ ......",
+  "options": [
+   "ثاءْ",
+   "هاءْ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 34,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: هَيّا نَقْرَأْ يا ......",
+  "options": [
+   "هَيْفاءْ",
+   "بَلَدي"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 34,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "أَبْني بَلَدي بِيَدي",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 35,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "في أيّ كلمة لا تُنطَق اللام؟",
+  "options": [
+   "اَلمَطَر",
+   "اَلسَّماء",
+   "اَلقَمَر"
+  ],
+  "answer": 1,
+  "explanation": "اللام لا تُنطق مع الحروف الشمسية مثل السين."
+ },
+ {
+  "unit": 2,
+  "lesson": 35,
+  "kind": "activity",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "في أيّ كلمة لا تُنطَق اللام؟",
+  "options": [
+   "اَلوَرد",
+   "اَلزَّرع",
+   "اَلبَرد"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 35,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "المَطَرُ يَنزِلُ مِنَ:",
+  "options": [
+   "السَّماءِ",
+   "البُستانِ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 35,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "المطر يسقي الزرع",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 35,
+  "kind": "quiz",
+  "order": 3,
+  "type": "fill_blank",
+  "prompt": "أكمل: نَزرَعُ وَلا ......",
+  "options": [],
+  "answer": [
+   "نقطع"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 36,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "اختر الكلمة التي تنتهي بالألف المقصورة «ى»:",
+  "options": [
+   "ريم",
+   "لَيلى",
+   "وِداد"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 36,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "مَن نادَت لَيلى؟",
+  "options": [
+   "سَلوى",
+   "نَدى"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 36,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ماذا قال موسى؟",
+  "options": [
+   "نَنامُ",
+   "نَقفِزُ ونَدورُ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 36,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "قالت سلوى: تَعالَي نَلعَبُ مَعَ نَدى",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 37,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: نَشيدُ ٱلنّورِ في ......",
+  "options": [
+   "شَفَتي",
+   "مَدرَسَتي"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 37,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: أُحِبُّ مُعَلِّمي ......",
+  "options": [
+   "ٱلدُّنيا",
+   "ٱلغالي"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 37,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "أَرى عَلَمي أَرى وَطَني",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 38,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "جيراننا مثل:",
+  "options": [
+   "الغرباء",
+   "أهلنا"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 38,
+  "kind": "quiz",
+  "order": 1,
+  "type": "true_false",
+  "prompt": "قال النبي محمد (صلى الله عليه وآله وسلم): خير الجيران عند الله خيرهم لجاره",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 38,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "إذا أخطأنا بحق جيراننا:",
+  "options": [
+   "نعتذر لهم",
+   "نسكت"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 39,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «اَلفَراشُ»؟",
+  "options": [
+   "ش",
+   "ف",
+   "ر"
+  ],
+  "answer": 0,
+  "explanation": "الحرف الجديد هو الشين «ش»."
+ },
+ {
+  "unit": 2,
+  "lesson": 39,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أين يَطيرُ الفَراشُ؟",
+  "options": [
+   "في ٱلبُستانِ",
+   "في ٱلدّارِ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 39,
+  "kind": "quiz",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "أكمل: لِلطَّيرِ ......",
+  "options": [],
+  "answer": [
+   "ريش",
+   "عش"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 39,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "الفَراشُ يَعيشُ مَعَ الطُّيورِ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 40,
+  "kind": "activity",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "تدريب: مِشـ + مِش = ......",
+  "options": [],
+  "answer": [
+   "مشمش"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 40,
+  "kind": "activity",
+  "order": 2,
+  "type": "ordering",
+  "prompt": "رتّب الكلمات لتكوّن جملة:",
+  "options": [
+   "نَزورُ",
+   "دارَ",
+   "زَيدون"
+  ],
+  "answer": null,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 40,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "شامِل يعمل:",
+  "options": [
+   "بَقّالاً",
+   "شُرطِيَّ مُرور"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 40,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "متى يَقِفُ شامِل في الشّارِعِ؟",
+  "options": [
+   "في اللَّيل",
+   "مَعَ شُروقِ ٱلشَّمسِ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 40,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "شامِل يُساعِدُ ٱلنّاسَ عَلى عُبورِ ٱلشّارِعِ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 40,
+  "kind": "quiz",
+  "order": 4,
+  "type": "ordering",
+  "prompt": "رتّب الكلمات لتكوّن جملة:",
+  "options": [
+   "مازِنٌ",
+   "دَقَّ",
+   "بابَنا"
+  ],
+  "answer": null,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 41,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "اختر الكلمة التي فيها «ئـ»:",
+  "options": [
+   "يَلعَب",
+   "رائِد",
+   "فَريق"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 41,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "مَن رَئيسُ الفَريقِ؟",
+  "options": [
+   "رائِد",
+   "فائِز"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 41,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "الفَريقُ:",
+  "options": [
+   "نَشيطٌ",
+   "نائِمٌ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 41,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "فازَ الفَريقُ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 42,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «أُستاذٌ»؟",
+  "options": [
+   "د",
+   "ز",
+   "ذ"
+  ],
+  "answer": 2,
+  "explanation": "الحرف الجديد هو الذال «ذ»."
+ },
+ {
+  "unit": 2,
+  "lesson": 42,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "مَن الأُستاذ؟",
+  "options": [
+   "مَعاذ",
+   "مُنذِر"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 42,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "مُنذِرٌ:",
+  "options": [
+   "تِلميذٌ نَشيطٌ",
+   "أُستاذٌ قَديرٌ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 42,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "العَسَلُ لَذيذٌ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 43,
+  "kind": "activity",
+  "order": 1,
+  "type": "true_false",
+  "prompt": "المعلم في المدرسة كأبينا في البيت",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 43,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "المعلمة في المدرسة مثل:",
+  "options": [
+   "جارتنا",
+   "أمنا في البيت"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 43,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "يرشدنا المعلمون إلى:",
+  "options": [
+   "اللعب فقط",
+   "الخير والأعمال الصالحة"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 44,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «مالِكٌ»؟",
+  "options": [
+   "ك",
+   "م",
+   "ل"
+  ],
+  "answer": 0,
+  "explanation": "الحرف الجديد هو الكاف «ك»."
+ },
+ {
+  "unit": 2,
+  "lesson": 44,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا يَبيعُ مالِك؟",
+  "options": [
+   "السَّمَكَ",
+   "الوَردَ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 44,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "عِندَ مالِكٍ:",
+  "options": [
+   "زَورَقٌ وشِباكٌ",
+   "قِطارٌ وأَرنَبٌ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 44,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "السَّمَكُ لَذيذٌ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 45,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "اختر الكلمة التي تبدأ بحرف الكاف:",
+  "options": [
+   "كِتابٌ",
+   "مالِكٌ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 45,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "إلى مَن كَتَبَ كامِلٌ المكتوب؟",
+  "options": [
+   "العَمِّ كَريمٍ",
+   "الأُستاذِ مَعاذ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 45,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "كامِلٌ يَقرَأُ وَيَكتُبُ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 45,
+  "kind": "quiz",
+  "order": 3,
+  "type": "ordering",
+  "prompt": "رتّب الكلمات لتكوّن جملة:",
+  "options": [
+   "أَرسِل",
+   "لَنا",
+   "مَكتوباً"
+  ],
+  "answer": null,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 46,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "اختر الكلمة التي تنتهي بحرف الهاء «ه»:",
+  "options": [
+   "زَرع",
+   "مَطَر",
+   "مِياه"
+  ],
+  "answer": 2,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 46,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "مِياهُ المَطَرِ تَسقي:",
+  "options": [
+   "الزَّرعَ",
+   "السَّمَكَ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 46,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "مَن يُساعِدُ أَباهُ في الزَّرع؟",
+  "options": [
+   "كامِل",
+   "نَبيه"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 46,
+  "kind": "quiz",
+  "order": 3,
+  "type": "fill_blank",
+  "prompt": "أكمل: قالَ لَهُ أَبوهُ: شُكراً لَكَ يا ......",
+  "options": [],
+  "answer": [
+   "نبيه"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 47,
+  "kind": "activity",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "تدريب: أكمل بالكلمة المناسبة (نَقطَع - رَئيس - يَزرَع): فائز ...... ٱلفَريق",
+  "options": [],
+  "answer": [
+   "رئيس"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 47,
+  "kind": "activity",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "تدريب: أكمل بالكلمة المناسبة (نَقطَع - رَئيس - يَزرَع): أَبو نَبيه ......",
+  "options": [],
+  "answer": [
+   "يزرع"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 47,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "إلى مَن ذَهَبَ هُمامٌ وسُهادُ؟",
+  "options": [
+   "أَبيهِما",
+   "عَمِّهِما مَهديّ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 47,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ماذا قالا للعَمِّ؟",
+  "options": [
+   "شُكراً لَكَ",
+   "عيدُكَ مُبارَكٌ يا عَمُّ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 47,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "قالَ العَمُّ: وَعيدُكُما سَعيدٌ يا أَولادُ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 48,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "اختر الكلمة التي تنتهي بالتاء المربوطة «ة»:",
+  "options": [
+   "ساعَة",
+   "بَيت",
+   "بَنات"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 48,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "إلى أين تَذهَبُ ناهِدَةُ؟",
+  "options": [
+   "إِلى ٱلمَدرَسَةِ",
+   "إِلى ٱلبُستانِ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 48,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "بماذا تَعرِفُ ناهِدَةُ الوَقتَ؟",
+  "options": [
+   "بالكُرَةِ",
+   "بالسّاعَةِ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 48,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "ناهِدَةُ تِلميذَةٌ نَشيطَةٌ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 49,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل بـ (هٰذا أو هٰذِهِ): ...... بِنتٌ",
+  "options": [
+   "هٰذا",
+   "هٰذِهِ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 49,
+  "kind": "activity",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "أكمل بـ (هٰذا أو هٰذِهِ): ...... ديكٌ",
+  "options": [
+   "هٰذا",
+   "هٰذِهِ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 49,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل بـ (هٰذا أو هٰذِهِ): ...... وَلَدٌ",
+  "options": [
+   "هٰذِهِ",
+   "هٰذا"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 49,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "أكمل بـ (هٰذا أو هٰذِهِ): ...... بَطَّةٌ",
+  "options": [
+   "هٰذا",
+   "هٰذِهِ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 49,
+  "kind": "quiz",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "ماذا عِندَ الوَلَدِ؟",
+  "options": [
+   "لُعبَةٌ",
+   "قِطارٌ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 49,
+  "kind": "quiz",
+  "order": 4,
+  "type": "mcq",
+  "prompt": "أكمل الكلمة بالحرف المناسب: بَنا......",
+  "options": [
+   "ة",
+   "ت"
+  ],
+  "answer": 1,
+  "explanation": "بَنات"
+ },
+ {
+  "unit": 2,
+  "lesson": 50,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «وَقّاص»؟",
+  "options": [
+   "س",
+   "ص",
+   "ق"
+  ],
+  "answer": 1,
+  "explanation": "الحرف الجديد هو الصاد «ص»."
+ },
+ {
+  "unit": 2,
+  "lesson": 50,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا طَلَبَ وَقّاصٌ مِن أُمِّهِ؟",
+  "options": [
+   "المِقَصَّ",
+   "القَلَمَ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 50,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ماذا صَنَعَ وَقّاصٌ مِنَ الوَرَقِ؟",
+  "options": [
+   "زَورَقاً",
+   "طَيّارَةً"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 50,
+  "kind": "quiz",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "مَعَ مَن لَعِبَ وَقّاصٌ؟",
+  "options": [
+   "صَديقِهِ مَنصورٍ",
+   "أُستاذِهِ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 51,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: طَيّارَتي أُحِبُّها ، مِن وَرَقٍ ......",
+  "options": [
+   "أَسحَبُها",
+   "أَصنَعُها"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 51,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "طَيّارَتي:",
+  "options": [
+   "بَطيئَةْ",
+   "سَريعَةْ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 51,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "ذَيلُ الطَّيّارَةِ طَويلُ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 52,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «صَلاحٌ»؟",
+  "options": [
+   "ص",
+   "ح",
+   "ل"
+  ],
+  "answer": 1,
+  "explanation": "الحرف الجديد هو الحاء «ح»."
+ },
+ {
+  "unit": 2,
+  "lesson": 52,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا يَزرَعُ صَلاحٌ في حَقلِهِ؟",
+  "options": [
+   "الوَردَ",
+   "القَمحَ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 52,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "مَحاسِنُ فَلّاحَةٌ تَحلُبُ:",
+  "options": [
+   "الحِصانَ",
+   "البَقَرَةَ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 52,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "مَحاسِنُ تُقَدِّمُ لِلحِصانِ الحَشيشَ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 53,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «أَصباغ»؟",
+  "options": [
+   "ع",
+   "غ",
+   "ص"
+  ],
+  "answer": 1,
+  "explanation": "الحرف الجديد هو الغين «غ»."
+ },
+ {
+  "unit": 2,
+  "lesson": 53,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "هِشامٌ:",
+  "options": [
+   "رَسّامٌ",
+   "فَلّاحٌ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 53,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "بماذا يَصبُغُ هِشامٌ الصّورَةَ؟",
+  "options": [
+   "بالأَصباغِ",
+   "بالماءِ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 53,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "مَيسونُ سَأَلَت هِشاماً: ماذا تَصبُغُ؟",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 54,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "الغُرابُ صَديقُ:",
+  "options": [
+   "الغَزالِ",
+   "البَطِّ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 54,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "لماذا صاحَ الغَزالُ؟",
+  "options": [
+   "ساقُهُ مَكسورَةٌ وَهُوَ عَطشانُ",
+   "ضاعَ في البُستانِ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 54,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ماذا قَدَّمَ الغُرابُ لِلغَزالِ؟",
+  "options": [
+   "تَمراً",
+   "ماءً"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 54,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "قالَ الغَزالُ: الحَمدُ لِلّٰهِ ، أَشكُرُكَ يا صَديقي",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 55,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "قبل أن نأكل نقول:",
+  "options": [
+   "بسم الله الرحمن الرحيم",
+   "شكراً يا أمي"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 55,
+  "kind": "activity",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "تدريب: اَلصَّبّاغُ ......",
+  "options": [
+   "يَصبُغُ",
+   "يَزرَعُ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 55,
+  "kind": "activity",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "تدريب: اَلبُلبُلُ ......",
+  "options": [
+   "يَعوي",
+   "يُغَرِّدُ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 55,
+  "kind": "quiz",
+  "order": 1,
+  "type": "true_false",
+  "prompt": "نأكل بسرعة ونتكلم في أثناء الأكل",
+  "options": [],
+  "answer": false,
+  "explanation": "لا نأكل بسرعة ، ولا نتكلم في أثناء الأكل."
+ },
+ {
+  "unit": 2,
+  "lesson": 55,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "بعد الانتهاء من تناول الطعام نقول:",
+  "options": [
+   "الحمد لله",
+   "بسم الله الرحمن الرحيم"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 55,
+  "kind": "quiz",
+  "order": 3,
+  "type": "fill_blank",
+  "prompt": "تدريب: هِـ + لال = ......",
+  "options": [],
+  "answer": [
+   "هلال"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 55,
+  "kind": "quiz",
+  "order": 4,
+  "type": "mcq",
+  "prompt": "تدريب: اَلغُيومُ ......",
+  "options": [
+   "في ٱلحَقلِ",
+   "في ٱلسَّماءِ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 56,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «حَوض»؟",
+  "options": [
+   "ض",
+   "و",
+   "ح"
+  ],
+  "answer": 0,
+  "explanation": "الحرف الجديد هو الضاد «ض»."
+ },
+ {
+  "unit": 2,
+  "lesson": 56,
+  "kind": "activity",
+  "order": 2,
+  "type": "ordering",
+  "prompt": "رتّب الحروف لتكوّن كلمة «لَحم»:",
+  "options": [
+   "ل",
+   "ح",
+   "م"
+  ],
+  "answer": null,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 56,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "مَعَ مَن يَسبَحُ رِياضٌ؟",
+  "options": [
+   "صَديقِهِ ناهِضٍ",
+   "ضِياءٍ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 56,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ماذا يَقولُ ضِياءٌ؟",
+  "options": [
+   "اَلرِّياضَةُ مُفيدَةٌ",
+   "اَلماءُ بارِدٌ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 56,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "رِياضٌ يَسبَحُ في ٱلحَوضِ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 57,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «فَرَجٌ»؟",
+  "options": [
+   "ج",
+   "ر",
+   "ف"
+  ],
+  "answer": 0,
+  "explanation": "الحرف الجديد هو الجيم «ج»."
+ },
+ {
+  "unit": 2,
+  "lesson": 57,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا يَنسِجُ فَرَجٌ؟",
+  "options": [
+   "طَيّارَةً",
+   "بِساطاً جَديداً"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 57,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ماذا تَنقُشُ جَميلَةُ عَلى القُماشِ؟",
+  "options": [
+   "وَرداً وأَشجاراً",
+   "سَمَكاً"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 57,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "جَميلَةُ نَسّاجَةٌ ماهِرَةٌ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 58,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «حارِثٌ»؟",
+  "options": [
+   "ث",
+   "ح",
+   "ر"
+  ],
+  "answer": 0,
+  "explanation": "الحرف الجديد هو الثاء «ث»."
+ },
+ {
+  "unit": 2,
+  "lesson": 58,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "مَن يَقودُ الجَرّارَ؟",
+  "options": [
+   "لَيثٌ",
+   "ثامِرٌ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 58,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ماذا تَفعَلُ ثُرَيّا؟",
+  "options": [
+   "تَقودُ الجَرّارَ",
+   "تَرعى ٱلغَنَمَ وتُرَبّي ٱلدَّجاجَ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 58,
+  "kind": "quiz",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "ثامِرٌ يَجمَعُ:",
+  "options": [
+   "ٱلأَثمارَ",
+   "ٱلحَشيشَ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 59,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «أَفراخ»؟",
+  "options": [
+   "ف",
+   "ر",
+   "خ"
+  ],
+  "answer": 2,
+  "explanation": "الحرف الجديد هو الخاء «خ»."
+ },
+ {
+  "unit": 2,
+  "lesson": 59,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا يَزرَعُ ثامِرٌ؟",
+  "options": [
+   "القَمحَ",
+   "البَطّيخَ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 59,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "الدَّجاجُ والبَطُّ يُعطينا بَيضاً ولَحماً",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 59,
+  "kind": "quiz",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "أَفراخُ الدَّجاجِ:",
+  "options": [
+   "طَويلَةٌ",
+   "جَميلَةٌ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 60,
+  "kind": "activity",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "أكمل بالحرف المناسب (ح ، ج ، خ) واكتب الكلمة: نَسّا......",
+  "options": [],
+  "answer": [
+   "نساج"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 60,
+  "kind": "activity",
+  "order": 2,
+  "type": "fill_blank",
+  "prompt": "أكمل بالحرف المناسب (ح ، ج ، خ) واكتب الكلمة: مِفتا......",
+  "options": [],
+  "answer": [
+   "مفتاح"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 60,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أين نَصَبوا الخَيمَةَ؟",
+  "options": [
+   "في ٱلحَقلِ",
+   "بَينَ ٱلنَّخيلِ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 60,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ماذا في البُستانِ؟",
+  "options": [
+   "نَخلٌ وخَوخٌ وعِنَبٌ",
+   "سَمَكٌ وبَطٌّ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 60,
+  "kind": "quiz",
+  "order": 3,
+  "type": "ordering",
+  "prompt": "رتّب الكلمات كما في الدرس:",
+  "options": [
+   "أَكَلنا",
+   "وَلَعِبنا",
+   "وَفَرِحنا"
+  ],
+  "answer": null,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 61,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ما الحرف الجديد في كلمة «ظافِر»؟",
+  "options": [
+   "ظ",
+   "ط",
+   "ض"
+  ],
+  "answer": 0,
+  "explanation": "الحرف الجديد هو الظاء «ظ»."
+ },
+ {
+  "unit": 2,
+  "lesson": 61,
+  "kind": "quiz",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "أكمل: اَلنَّظافَةُ مِنَ ......",
+  "options": [],
+  "answer": [
+   "الإيمان"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 61,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "مَحفوظٌ يَحفَظُ دُروسَهُ:",
+  "options": [
+   "كُلَّ يَومٍ",
+   "يَوماً واحِداً"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 61,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "مَحفوظٌ يُحافِظُ عَلى نَظافَةِ مَدرَسَتِهِ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 62,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: أَنا فَتًى نَظيفُ ، وَمَنظَري ......",
+  "options": [
+   "رَصينُ",
+   "لَطيفُ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 62,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: مُعَلِّمي مِثلُ ......",
+  "options": [
+   "كُتُبي",
+   "أَبي"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 62,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "وَأَصدِقائي كُتُبي",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 63,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "اختر الكلمة التي فيها مَدّة «آ»:",
+  "options": [
+   "إِناء",
+   "آدَم",
+   "أَب"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 63,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "ماذا تَقرَأُ آمِنَةُ؟",
+  "options": [
+   "القُرآنَ",
+   "قِصَّةً"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 63,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "ماذا يَقرَأُ آدَمُ؟",
+  "options": [
+   "القُرآنَ",
+   "الكِتابَ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 63,
+  "kind": "quiz",
+  "order": 3,
+  "type": "mcq",
+  "prompt": "مَآرِبُ تَقرَأُ قِصَّةَ:",
+  "options": [
+   "الغَزالِ وَالغُرابِ",
+   "الأَسَدِ وَالفَأرِ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 64,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "قالَ المُعَلِّمُ لِتَلاميذِهِ:",
+  "options": [
+   "هَيّا نَتَعَلَّمُ",
+   "هَيّا نَنامُ"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 64,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "قالَتِ المُعَلِّمَةُ:",
+  "options": [
+   "نَزرَعُ وَنَحرُثُ",
+   "نَرسُمُ وَنَلعَبُ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 64,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "قالَ التَّلاميذُ: نَقرَأُ وَنَكتُبُ ، نَرسُمُ وَنَلعَبُ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 65,
+  "kind": "activity",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "في أيّ صَفٍّ يَدرُسُ هِشامٌ؟",
+  "options": [
+   "الثّالِث",
+   "الثّاني"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 65,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "في أيّ صَفٍّ تَدرُسُ فاطِمَةُ؟",
+  "options": [
+   "الثّاني",
+   "الثّالِث"
+  ],
+  "answer": 0,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 65,
+  "kind": "quiz",
+  "order": 2,
+  "type": "mcq",
+  "prompt": "فاطِمَةُ هي:",
+  "options": [
+   "مُعَلِّمَةُ هِشامٍ",
+   "أُختُ هِشامٍ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 65,
+  "kind": "quiz",
+  "order": 3,
+  "type": "true_false",
+  "prompt": "هِشامٌ وفاطِمَةُ يَذهَبانِ إِلى المَدرَسَةِ مَعاً",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 66,
+  "kind": "activity",
+  "order": 1,
+  "type": "fill_blank",
+  "prompt": "أكمل: اَللهُ رَبُّنا ، اَللهُ ......",
+  "options": [],
+  "answer": [
+   "خالقنا"
+  ],
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 66,
+  "kind": "quiz",
+  "order": 1,
+  "type": "mcq",
+  "prompt": "أكمل: خَلَقَ ٱلشَّمسَ وَ......",
+  "options": [
+   "ٱلغِذاءَ",
+   "ٱلقَمَرَ"
+  ],
+  "answer": 1,
+  "explanation": null
+ },
+ {
+  "unit": 2,
+  "lesson": 66,
+  "kind": "quiz",
+  "order": 2,
+  "type": "true_false",
+  "prompt": "نقول: حَمداً لِلّٰهِ .. شُكراً لِلّٰهِ",
+  "options": [],
+  "answer": true,
+  "explanation": null
+ }
+]
